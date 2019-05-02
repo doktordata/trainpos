@@ -13,6 +13,7 @@
   "dependencies": {
     "dotenv": "^7.0.0",
     "https-proxy-agent": "^2.2.1",
+    "nmea-0183": "0.0.7",
     "url": "^0.11.0",
     "ws": "^7.0.0"
   }
